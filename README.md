@@ -1,2 +1,3 @@
-# general-info
-General information about the course
+# General information
+
+Use this if you have any question or to share interesting resources.
