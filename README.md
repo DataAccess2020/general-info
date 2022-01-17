@@ -1,3 +1,5 @@
-# General information
+# Data Access and Regulation (Module II)
 
-Use this if you have any question or to share interesting resources.
+TODO: add syllabus & help files. Tell them they can add generic issues in this repo. 
+
+
