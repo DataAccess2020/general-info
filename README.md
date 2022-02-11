@@ -1,5 +1,5 @@
 # Data Access and Regulation (Module II)
 
-TODO: add syllabus & help files. Tell them they can add generic issues in this repo. 
+Use this repo to get help: open a new issue and show to the class your problem to get support. 
 
 
